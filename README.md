@@ -1,2 +1,2 @@
 # Hello-World
-Just practice aot repositories so I acn do HW3
+Just practice about repositories so I can do HW3
